@@ -1,2 +1,2 @@
-# ping-pong-game
-ping pong game
+# Ping-Pong-Game
+A simple one player game of ping pong
